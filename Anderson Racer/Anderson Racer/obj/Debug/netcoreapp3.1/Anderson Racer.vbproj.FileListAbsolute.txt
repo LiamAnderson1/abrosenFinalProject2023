@@ -1,0 +1,33 @@
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.vbprojAssemblyReference.cache
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson_Racer.Form1.resources
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson_Racer.Resources.resources
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.vbproj.GenerateResource.cache
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.AssemblyInfoInputs.cache
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.AssemblyInfo.vb
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.vbproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.exe
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.deps.json
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.runtimeconfig.json
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.runtimeconfig.dev.json
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.dll
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.pdb
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.dll
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.pdb
+C:\Users\green\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.genruntimeconfig.cache
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.exe
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.deps.json
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.runtimeconfig.json
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.runtimeconfig.dev.json
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.dll
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\bin\Debug\netcoreapp3.1\Anderson Racer.pdb
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.vbproj.AssemblyReference.cache
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson_Racer.Form1.resources
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson_Racer.Resources.resources
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.vbproj.GenerateResource.cache
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.AssemblyInfoInputs.cache
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.AssemblyInfo.vb
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.vbproj.CoreCompileInputs.cache
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.dll
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.pdb
+C:\Users\green\OneDrive\Desktop\Visual Basic 2021\Anderson Racer\Anderson Racer\obj\Debug\netcoreapp3.1\Anderson Racer.genruntimeconfig.cache

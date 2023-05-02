@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "45ORhm1yuIdTiO4/h5iwMI+eL+ASLk0FoePEwfS4yh6HN1DfPGqpR4NE44bYd8N94CGb4VA41IbyTyMyff5Z5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\green\\OneDrive\\Desktop\\Visual Basic 2021\\Anderson Racer\\Anderson Racer\\Anderson Racer.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
